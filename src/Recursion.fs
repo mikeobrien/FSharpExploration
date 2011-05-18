@@ -1,4 +1,4 @@
-﻿namespace FSharpExploration.Tests
+﻿namespace FSharpExploration
 
 open NUnit.Framework
 open FsUnit
